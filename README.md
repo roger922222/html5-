@@ -55,11 +55,13 @@ cb1处理位置回调，cb2处理错误的回调
 webworker 
 
 # 支持html5标签
+```bash
 <!--[if lt IE 9]>
 
 <script> src="http://html5shim.googlecode.com/svn/trunk/html5.js"</script>
 
 <![endif]-->
+```
 
 
 
